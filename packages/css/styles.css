@@ -1613,3 +1613,14 @@ body {
 .button-48:hover span{
   color:#fff !important;
 }
+
+
+
+
+
+/*new  */
+
+
+.portfolio__description {
+    text-align: justify;
+}
