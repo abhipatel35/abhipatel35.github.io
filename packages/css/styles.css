@@ -1622,5 +1622,5 @@ body {
 
 
 .portfolio__description {
-    text-align: justify;
+    text-align: justify !important;
 }
